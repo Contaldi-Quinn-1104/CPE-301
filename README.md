@@ -1,2 +1,1 @@
-# CPE-301
-The CPE 301 final 
+#CPE 301 it just works
